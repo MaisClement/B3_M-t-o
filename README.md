@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# B3 Meteo
 
-Project initially started on 25 May 2022
+### Voir en action : [Météo](https://meteo.hackernwar.com)
