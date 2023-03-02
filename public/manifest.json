@@ -1,0 +1,32 @@
+{
+  "short_name": "Météo",
+  "name": "Météo",
+  "icons": [
+    {
+      "src": "icon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "minimal-ui",
+  "theme_color": "#025982",
+  "background_color": "#cdc8e3",
+  "description": "Une petite appli qui permet d'obtenir la météo a son emplacement",
+  "dir": "auto",
+  "lang": "fr",
+  "orientation": "portrait",
+  "categories": [
+    "weather"
+  ]
+}
